@@ -1,9 +1,10 @@
 {
-  "id":"urn:ngsi-ld:Building:dd4cf746-d622-4284-a722-538550266002",
+  "id":"urn:ngsi-ld:Building:91b41dea-6def-44cc-b140-3c112b781233",
   "type":"Building",
-  "dateCreated":"2022-10-06T12:26:12Z",
-  "dateModified":"2022-10-06T12:26:12Z",
+  "dateCreated":"2022-12-19T16:22:51Z",
+  "dateModified":"2022-12-19T16:22:51Z",
   "source":"",
+  "name":"Building C",
   "dataProvider":"OperatorA",
   "category":"office",
   "location":{
@@ -11,24 +12,24 @@
     "coordinates":[
       [
         [
-          -3.48197802901268,
-          40.31316029882028
+          -3.4828088432550426,
+          40.31326409453562
         ],
         [
-          -3.4819646179676056,
-          40.313084624996186
+          -3.482774645090103,
+          40.31311044614164
         ],
         [
-          -3.4818781167268753,
-          40.31309382857393
+          -3.48248228430748,
+          40.31315007263277
         ],
         [
-          -3.481895551085472,
-          40.31316745715058
+          -3.4825171530246735,
+          40.31330142004943
         ],
         [
-          -3.48197802901268,
-          40.31316029882028
+          -3.4828088432550426,
+          40.31326409453562
         ]
       ]
     ]
@@ -39,16 +40,15 @@
       " Arganda del Rey"
     ],
     "streetAddress":[
-      "CAR-B",
+      "Nave Edif-C",
       " Acceso CSIC"
-    ],
-    "postalCode":[]
+    ]
   },
   "owner":[],
   "occupier":[],
   "floorsAboveGround":"",
   "floorsBelowGround":"",
-  "description":"Building A",
+  "description":"Building C",
   "mapUrl":"",
   "openingHours":[],
   "ownedBy":""

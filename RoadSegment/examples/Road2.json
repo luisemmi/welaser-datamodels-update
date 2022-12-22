@@ -5,51 +5,51 @@
   "category":[
     "oneway"
   ],
-  "roadMaterial": "dirt",
-  "refRoad": [],
-  "totalLaneNumber": 2,
-  "maximumAllowedSpeed": 40,
-  "minimumAllowedSpeed": 10,
-  "length": 173.52888466738304,
-  "startPoint": {
-    "type": "Point",
-    "coordinates": [
+  "roadMaterial":"dirt",
+  "refRoad":[],
+  "totalLaneNumber":2,
+  "maximumAllowedSpeed":40,
+  "minimumAllowedSpeed":10,
+  "length":163.45575389370737,
+  "startPoint":{
+    "type":"Point",
+    "coordinates":[
       -3.4820279851555824,
       40.3132617936471
     ]
   },
-  "endPoint": {
-    "type": "Point",
-    "coordinates": [
+  "endPoint":{
+    "type":"Point",
+    "coordinates":[
       -3.480754941701889,
       40.3126691844176
     ]
   },
-  "allowedVehicleType": [
+  "allowedVehicleType":[
     "agriculturalVehicle"
   ],
-  "location": {
-    "type": "LineString",
-    "coordinates": [
+  "location":{
+    "type":"LineString",
+    "coordinates":[
       [
         -3.4820279851555824,
         40.3132617936471
       ],
       [
-        -3.4819230437278748,
-        40.31318944344609
+        -3.481940992694831,
+        40.31320911313391
       ],
       [
         -3.481697738170624,
         40.3131608101296
       ],
       [
-        -3.4814053773880005,
-        40.31318023988139
+        -3.4814792610408176,
+        40.313087818927656
       ],
       [
-        -3.4812846779823303,
-        40.312979806383595
+        -3.4813349150797706,
+        40.31299360802194
       ],
       [
         -3.4811505675315857,
@@ -64,16 +64,16 @@
         40.312677109769474
       ],
       [
-        -3.4808937460184097,
-        40.312621887943536
+        -3.480895558875119,
+        40.31263892404168
       ],
       [
-        -3.4808468073606487,
-        40.31261677480923
+        -3.4808440365957263,
+        40.31261984454069
       ],
       [
-        -3.480828031897545,
-        40.312621632286834
+        -3.4808046806005564,
+        40.31263050564243
       ],
       [
         -3.480754941701889,
@@ -81,6 +81,6 @@
       ]
     ]
   },
-  "dateCreated":"2022-10-06T12:26:14Z",
-  "dateModified":"2022-10-06T12:26:14Z"
+  "dateCreated":"2022-12-19T16:22:53Z",
+  "dateModified":"2022-12-19T16:22:53Z"
 }

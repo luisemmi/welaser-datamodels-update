@@ -1,18 +1,11 @@
 {
-  "id": "urn:ngsi-ld:RestrictedTrafficArea:0414162e-4575-4ebd-b0e7-a0459a81fa05",
-  "type": "RestrictedTrafficArea",
-  "category": "onlyPedestrian",
-  "description": "Restricted Area",
-  "landLocation": {
-    "type": "Point",
-    "coordinates": [
-      -3.4829583764076233,
-      40.31317001369695
-    ]
-  },
-  "location": {
-    "type": "Polygon",
-    "coordinates": [
+  "id":"urn:ngsi-ld:RestrictedTrafficArea:0414162e-4575-4ebd-b0e7-a0459a81fa05",
+  "type":"RestrictedTrafficArea",
+  "category":"onlyPedestrian",
+  "description":"Restricted Area",
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
       [
         [
           -3.4829583764076233,
@@ -37,13 +30,13 @@
       ]
     ]
   },
-  "name": "Parking",
+  "name":"Parking",
   "notAllowedVehicleType":[
     "anyVehicle"
   ],
   "regulation":"",
   "source":"",
   "validityEndDate":"",
-  "dateCreated":"2022-10-06T12:26:14Z",
-  "dateModified":"2022-10-06T12:26:14Z"
+  "dateCreated":"2022-12-19T16:22:53Z",
+  "dateModified":"2022-12-19T16:22:53Z"
 }

@@ -3,16 +3,9 @@
   "type":"RestrictedTrafficArea",
   "category":"onlyPedestrian",
   "description":"Restricted Area",
-  "landLocation": {
-    "type": "Point",
-    "coordinates": [
-      -3.481767475605011,
-      40.31279982477656
-    ]
-  },
-  "location": {
-    "type": "Polygon",
-    "coordinates": [
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
       [
         [
           -3.481767475605011,
@@ -88,6 +81,6 @@
   "regulation":"",
   "source":"",
   "validityEndDate":"",
-  "dateCreated":"2022-10-06T12:26:13Z",
-  "dateModified":"2022-10-06T12:26:13Z"
+  "dateCreated":"2022-12-19T16:22:53Z",
+  "dateModified":"2022-12-19T16:22:53Z"
 }

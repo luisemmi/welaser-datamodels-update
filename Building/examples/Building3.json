@@ -1,9 +1,10 @@
 {
   "id":"urn:ngsi-ld:Building:693ef177-41e5-4e29-b485-db68a0735b07",
   "type":"Building",
-  "dateCreated":"2022-10-06T12:26:12Z",
-  "dateModified":"2022-10-06T12:26:12Z",
+  "dateCreated":"2022-12-19T16:22:52Z",
+  "dateModified":"2022-12-19T16:22:52Z",
   "source":"",
+  "name":"Building B",
   "dataProvider":"OperatorA",
   "category":"office",
   "location":{
@@ -49,8 +50,7 @@
     "streetAddress":[
       "CAR-B",
       " Acceso CSIC"
-    ],
-    "postalCode":[]
+    ]
   },
   "owner":[],
   "occupier":[],
