@@ -1,0 +1,27 @@
+{
+  "id":"urn:ngsi-ld:Task:578faa6d-c097-422d-a12d-ee19610a5fc1",
+  "type":"Task",
+  "name":"Operation Wakeup in Building C @ Farm WeLASER Arganda del Rey",
+  "goal":"Wakeup in Building C @ Farm WeLASER Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:Building:91b41dea-6def-44cc-b140-3c112b781233",
+  "workingAreaType":"Building C",
+  "plannedBeginTime":"2022-11-24T18:53:11Z",
+  "plannedEndTime":"2022-11-24T18:58:11Z",
+  "plannedSpeed":[],
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      -3.48264606287599,
+      40.31320641281282
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

@@ -11,7 +11,7 @@
         ]
     },
     "controlledProperty": [
-        "epoch"
+        "timestamp"
     ],
     "value": [
         0

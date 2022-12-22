@@ -2,26 +2,37 @@
     "id": "carob-123",
     "type": "AgriRobot",
     "hasFarm": "urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+    "hasTask":"",
     "refRobotModel": "robotmodel:carob",
     "category": "TBD",
     "name": "carob-123",
     "serviceProvided": [
         "weeding",
-        "seeding",
-        "heartbeat"
+        "state",
+        "heartbeat",
+        "engine",
+        "battery",
+        "armed",
+        "automotion",
+        "rtk",
+        "fuel",
+        "emergency"
     ],
     "hasImplement": [
         "laser-123"
     ],
-    "hasDevice": [
-        "camera1",
-        "camera2",
-        "therm1"
-    ],
+    "hasDevice": [],
     "status": [
         "on",
+        "idle",
+        1653309595,
         "off",
-        1653309595
+        50,
+        "off",
+        "off",
+        "off",
+        80,
+        "No emergency"
     ],
     "hitch": 123,
     "weight": 123,
@@ -36,12 +47,12 @@
     "bearing": 1,
     "heading": 1,
     "cmdList": [
-        "executemission",
+        "execute_mission",
         "pause",
         "resume",
-        "stop"
+        "abort"
     ],
-    "cmd": {
-        "stop": {}
-    }
+    "errors": [],
+    "warnings": [],
+    "cmd": {}
 }

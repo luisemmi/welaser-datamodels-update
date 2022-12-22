@@ -5,19 +5,34 @@
     "refRobotModel": "robotmodel:carob",
     "category": "TBD",
     "name": "Carob @ CSIC",
-    "serviceProvided": [
-        "weeding",
-        "front-camera",
-        "heartbeat"
-    ],
     "hasImplement": [
         "laser-123"
     ],
-    "status": [
-        "off",
-        "",
-        1653309595
+    "serviceProvided": [
+        "weeding",
+        "state",
+        "heartbeat",
+        "engine",
+        "battery",
+        "armed",
+        "automotion",
+        "rtk",
+        "fuel",
+        "emergency"
     ],
+    "status": [
+        "on",
+        "idle",
+        1653309595,
+        "off",
+        50,
+        "off",
+        "off",
+        "off",
+        80,
+        "No emergency"
+    ],
+    "hasTask": "",
     "hitch": 123,
     "weight": 123,
     "location": {
@@ -31,12 +46,12 @@
     "bearing": 1,
     "heading": 1,
     "cmdList": [
-        "executemission",
+        "execute_mission",
         "pause",
         "resume",
-        "stop"
+        "abort"
     ],
-    "cmd": {
-        "stop": {}
-    }
+    "cmd": {},
+    "errors": ["GPS antenna disconnected", "Obstacle detected"],
+    "warnings": ["Low connection", "Low battery"]
 }

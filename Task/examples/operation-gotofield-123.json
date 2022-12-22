@@ -1,7 +1,7 @@
 {
     "id": "operation-gotofield-123.json",
     "type": "Task",
-    "taskLevel": "Operation",
+    "taskType": "Operation",
     "name": "GoToField",
     "hasAgriRobot": "carob-123",
     "plannedBeginTime": "2012-04-13T10:40:00Z",

@@ -10,12 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
         with:
           submodules: recursive
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.8.10'
+          python-version: '3.11.0'
           architecture: 'x64'
       - name: Check json documents
         run: |
@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3.0.2
+        uses: actions/checkout@v3.1.0
       - name: Release
         run: |
           npm install

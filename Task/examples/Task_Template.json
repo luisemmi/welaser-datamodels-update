@@ -1,0 +1,38 @@
+{
+    "id": "urn:ngsi-ld:Mission:",
+    "type": "Task",
+    "name": "taskType in workingArea Name + ....",
+    "goal": "Automatically weeding Field # in Farm # and rountrip to Entity #",
+    "taskType": "Mission, Operation, Action",
+    "hasAgriRobot": "carob-123",
+    "hasWorkingArea": "urn:ngsi-ld:AgriFarm:",
+    "workingAreaType": "AgriFarm, AgriPArcel, RoadSegment, Building",
+    "plannedBeginTime": "2012-04-13T10:40:00Z",
+    "plannedEndTime": "2012-04-13T10:50:00Z",
+    "plannedSpeed": 0.55,
+    "plannedLocation": {
+        "type": "Point",
+        "coordinates": [
+            0,
+            0
+        ]
+    },
+    "hasPlannedTaskChildren": [
+      
+    ],
+    "hasExecutedTaskChildren": [
+
+    ],
+    "actualLocation": {
+        "type": "Point",
+        "coordinates": [
+            0,
+            0
+        ]
+    },
+    "actualBeginTime": "",
+    "actualEndTime": "",
+    "status": "planned, executing, finished, aborted",
+    "result": "ok",
+    "event": ""
+}

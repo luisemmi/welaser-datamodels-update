@@ -1,0 +1,33 @@
+{
+  "id":"urn:ngsi-ld:Task:a995b375-5e7f-4eb4-b524-96a645f23355",
+  "type":"Task",
+  "name":"Operation GoToField in Field 6 wheat @ Farm WeLASER Arganda del Rey",
+  "goal":"GoToFIeld in Field 6 wheat @ Farm WeLASER Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"AgriFarm",
+  "plannedBeginTime":"2022-11-24T18:58:11Z",
+  "plannedEndTime":"2022-11-24T19:14:11Z",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      -3.48264606287599,
+      40.31320641281282
+    ]
+  },
+  "hasPlannedTaskChildren":[
+    "urn:ngsi-ld:Task:f7f13360-8fc6-40d0-a909-11d69e450a66",
+    "urn:ngsi-ld:Task:aea81836-792d-403a-8452-575497b21edc",
+    "urn:ngsi-ld:Task:d7602d07-3687-4910-98cc-2f4570613881",
+    "urn:ngsi-ld:Task:b32ea2a6-89cb-44d8-8210-92612ac3cdf5",
+    "urn:ngsi-ld:Task:101c3ca1-c203-43b4-bc34-82b8e1fce9dd"
+  ],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

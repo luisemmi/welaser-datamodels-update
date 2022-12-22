@@ -1,0 +1,20 @@
+{
+  "id":"urn:ngsi-ld:Task:101c3ca1-c203-43b4-bc34-82b8e1fce9dd",
+  "type":"Task",
+  "name":"Action MoveTo in Field 6 wheat @ Farm WeLASER Arganda del Rey",
+  "goal":"MoveTo in Field 6 wheat @ Farm WeLASER Arganda del Rey",
+  "taskType":"Action",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:AgriParcel:035795a1-4fc6-4cc3-8b5b-538625eb6461",
+  "workingAreaType":"AgriParcel",
+  "plannedBeginTime":[],
+  "plannedEndTime":[],
+  "plannedSpeed":0.55,
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

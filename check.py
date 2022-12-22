@@ -1,6 +1,6 @@
+import geojson
 import json
 import os
-import geojson
 import re
 
 for root, dirs, files in os.walk("."):
@@ -17,8 +17,14 @@ for root, dirs, files in os.walk("."):
                 assert " " not in entity["type"], {"id": entity["id"], "type": entity["type"]}
                 regexp = re.compile(r'\(|\)')
                 for key, value in entity.items():
+                    assert not key.startswith(" ") and not key.endswith(" "), {"id": entity["id"], key: value}
+                    assert not str(value).startswith(" ") and not str(value).endswith(" "), {"id": entity["id"], key: value}
                     assert not regexp.search(str(value)), {"id": entity["id"], key: value}
-                if "Task" in path:
-                    assert "actualLocation" in entity
+                #if "Task" in path:
+                #    assert "actualLocation" in entity, f"Entity: {path}"
                 if "location" in entity:
                     assert geojson.loads(json.dumps(entity["location"])).is_valid
+                if "controlledProperty" in entity:
+                    known_properties = set(["heartbeat", "temperature", "humidity", "image", "timestamp"])
+                    difference = set(entity["controlledProperty"]).difference(known_properties)
+                    assert (len(difference) == 0), "Unknown properties: " + str(difference)

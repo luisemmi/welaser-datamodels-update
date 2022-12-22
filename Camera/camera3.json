@@ -1,0 +1,17 @@
+{
+    "id": "urn:ngsi-ld:Camera:Cam3",
+    "type": "Camera",
+    "areaServed": "urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+    "cameraName": "Right camera",
+    "streamURL": "https://www.dolomitilivecam.it/web-cams/san-leonardo-badia-bz-alta-badia-dolomiti-italia/fvp/#fvp_playerlist",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -3.4810637987225532,
+            40.31184130935516
+        ]
+    },
+    "on": true,
+    "imageSnapshot": "",
+    "mediaURL": ""
+}

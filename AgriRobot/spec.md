@@ -16,7 +16,7 @@ Global description: **This entity contains a harmonised description of a generic
 - `serviceProvided`: List of services provided by the robot (**TBD**)
 - `hasImplement`: List of the mounted implement ids 
 - `hasDevice`: List of the mounted device ids
-- `cmdList`: List of the commands that rebot is capable to execute (e.g., `["startMission", "stop"]`)
+- `cmdList`: List of the commands that rebot is capable to execute
 
 ### Dynamic
 
