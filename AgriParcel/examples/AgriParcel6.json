@@ -1,9 +1,9 @@
 {
   "id":"urn:ngsi-ld:AgriParcel:035795a1-4fc6-4cc3-8b5b-538625eb6461",
   "type":"AgriParcel",
-  "dateCreated":"2022-12-19T16:22:51Z",
-  "name":"Field 6 wheat",
-  "dateModified":"2022-12-19T16:22:51Z",
+  "dateCreated":"2023-01-09T10:42:33+01:00",
+  "name":"Field 6 2023-01-09T10:42:33+01:00",
+  "dateModified":"2023-01-09T10:42:33+01:00",
   "location":{
     "type":"Polygon",
     "coordinates":[
@@ -32,8 +32,8 @@
     ]
   },
   "area":376.72,
-  "description":"AgriParcel 6",
-  "category":"wheat",
+  "description":"wheat",
+  "category":"arable",
   "relatedSource":[
     {
       "application":"",
@@ -43,7 +43,7 @@
   "seeAlso":[],
   "belongsTo":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "ownedBy":"",
-  "hasAgriCrop":"urn:ngsi-ld:AgriCrop:562e9027-bded-48c3-af34-d523cc7480b4",
+  "hasAgriCrop":"urn:ngsi-ld:AgriCrop:7dd2cc7d-b0fc-4d02-a0cc-a82c6d708513",
   "headlandWidth":4,
   "gateLocation":{
     "type":"MultiPoint",
@@ -62,6 +62,6 @@
   "interRowDistance":0.75,
   "cropStatus":"",
   "lastPlantedAt":"",
-  "hasAgriSoil":"urn:ngsi-ld:AgriSoil:e70951c4-3325-4a83-8d64-69fd88c88ea9",
+  "hasAgriSoil":"urn:ngsi-ld:AgriSoil:04dea31d-7194-4a3e-8e7e-1bda141e6b07",
   "hasDevice":[]
 }

@@ -1,8 +1,8 @@
 {
   "id":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "type":"AgriFarm",
-  "dateCreated":"2022-12-19T16:22:44Z",
-  "dateModified":"2022-12-19T16:22:44Z",
+  "dateCreated":"2023-01-09T10:42:26+01:00",
+  "dateModified":"2023-01-09T10:42:26Z+01:00",
   "name":"Farm WeLASER Arganda del Rey",
   "description":"Area of action",
   "relatedSource":[
