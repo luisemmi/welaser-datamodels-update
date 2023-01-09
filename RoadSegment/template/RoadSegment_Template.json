@@ -1,0 +1,34 @@
+{
+  "id": "Spain-RoadSegment-osm-24702186",
+  "type": "RoadSegment",
+  "name": "Farm Road",
+  "category": [
+    "oneway"
+  ],
+  "roadMaterial": [
+    "asphalt",
+    "dirt"
+    ],
+
+  "refRoad": [],
+  "totalLaneNumber": 2,
+  "maximumAllowedSpeed": 40,
+  "minimumAllowedSpeed": 10,
+  "length":355,
+  "startPoint": {
+      "type": "Point",
+      "coordinates": []
+    },
+    "endPoint": {
+      "type": "Point",
+      "coordinates": []
+    },
+    "allowedVehicleType": [
+      "agriculturalVehicle"
+    ],
+
+  "location": {
+    "type": "LineString",
+    "coordinates": []
+  }
+}
