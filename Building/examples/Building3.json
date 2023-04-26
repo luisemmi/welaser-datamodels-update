@@ -1,8 +1,8 @@
 {
   "id":"urn:ngsi-ld:Building:693ef177-41e5-4e29-b485-db68a0735b07",
   "type":"Building",
-  "dateCreated":"2022-12-19T16:22:52Z",
-  "dateModified":"2022-12-19T16:22:52Z",
+  "dateCreated":"2023-01-09T10:42:34+01:00",
+  "dateModified":"2023-01-09T10:42:34+01:00",
   "source":"",
   "name":"Building B",
   "dataProvider":"OperatorA",
