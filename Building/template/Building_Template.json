@@ -1,0 +1,30 @@
+{
+  "id": "Building-a85e3da145c1",
+  "type": "Building",
+  "dateCreated": "2016-08-08T10:18:16Z",
+  "dateModified": "2016-08-08T10:18:16Z",
+  "source": "",
+  "name":"Building",
+  "dataProvider": "OperatorA",
+  "category": [
+    "office"
+  ],
+  "location": {
+    "type": "Polygon",
+    "coordinates":[[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+  },
+  "address": {
+    "addressLocality": "London",
+    "streetAddress": "25 Walbrook"
+  },
+  "owner": [
+  ],
+  "occupier": [
+  ],
+  "floorsAboveGround": "",
+  "floorsBelowGround": "",
+  "description": "Office block",
+  "mapUrl": "",
+  "openingHours": [
+  ]
+}

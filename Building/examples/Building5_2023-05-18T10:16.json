@@ -1,8 +1,13 @@
 {
   "id":"urn:ngsi-ld:Building:91b41dea-6def-44cc-b140-3c112b781233",
   "type":"Building",
+<<<<<<< HEAD:Building/examples/Building5_2023-05-18T10:16.json
   "dateCreated":"2023-05-18T10:16:34+01:00",
   "dateModified":"2023-05-18T10:16:34+01:00",
+=======
+  "dateCreated":"2023-01-09T10:42:33+01:00",
+  "dateModified":"2023-01-09T10:42:33+01:00",
+>>>>>>> bd71d2f12b41a3e1ac25e1ff81898675cde02169:Building/examples/Building1.json
   "source":"",
   "name":"BuildingC 2023-05-18T10:16",
   "dataProvider":"OperatorA",

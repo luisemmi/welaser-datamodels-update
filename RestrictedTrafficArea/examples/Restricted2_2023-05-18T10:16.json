@@ -41,7 +41,12 @@
   "regulation":"",
   "source":"",
   "validityEndDate":"",
+<<<<<<< HEAD:RestrictedTrafficArea/examples/Restricted2_2023-05-18T10:16.json
   "dateCreated":"2023-05-18T10:16:36+01:00",
   "dateModified":"2023-05-18T10:16:36+01:00",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055"
+=======
+  "dateCreated":"2023-01-09T10:42:35+01:00",
+  "dateModified":"2023-01-09T10:42:35+01:00"
+>>>>>>> bd71d2f12b41a3e1ac25e1ff81898675cde02169:RestrictedTrafficArea/examples/Restricted2.json
 }

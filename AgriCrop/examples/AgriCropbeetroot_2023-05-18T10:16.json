@@ -1,15 +1,27 @@
 {
+<<<<<<< HEAD:AgriCrop/examples/AgriCropbeetroot_2023-05-18T10:16.json
   "id":"urn:ngsi-ld:AgriCrop:49750b3c-2e0f-4cbd-b33d-69d27969da09",
   "type":"AgriCrop",
   "dateCreated":"2023-05-18T10:16:32+01:00",
   "dateModified":"2023-05-18T10:16:32+01:00",
   "name":"beetroot 2023-05-18T10:16",
+=======
+  "id":"urn:ngsi-ld:AgriCrop:0d53a7a8-1dfd-441f-bb64-b27890724021",
+  "type":"AgriCrop",
+  "dateCreated":"2023-01-09T10:42:26+01:00",
+  "dateModified":"2023-01-09T10:42:26+01:00",
+  "name":"beetroot",
+>>>>>>> bd71d2f12b41a3e1ac25e1ff81898675cde02169:AgriCrop/examples/AgriCropbeetroot.json
   "alternateName":"",
   "agroVocConcept":[],
   "seeAlso":[],
   "description":"Spring beetroot",
   "relatedSource":[],
+<<<<<<< HEAD:AgriCrop/examples/AgriCropbeetroot_2023-05-18T10:16.json
   "hasAgriSoil":"urn:ngsi-ld:AgriSoil:bb7ea2e5-cf98-4026-8bdf-1bda80c699a2",
+=======
+  "hasAgriSoil":"urn:ngsi-ld:AgriSoil:04dea31d-7194-4a3e-8e7e-1bda141e6b07",
+>>>>>>> bd71d2f12b41a3e1ac25e1ff81898675cde02169:AgriCrop/examples/AgriCropbeetroot.json
   "hasAgriFertiliser":[],
   "hasAgriPest":[],
   "plantingFrom":[
