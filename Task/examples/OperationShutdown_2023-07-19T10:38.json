@@ -1,0 +1,28 @@
+{
+  "id":"urn:ngsi-ld:Task:40f7e9e7-8ceb-4920-abf4-ac39524b37b7",
+  "type":"Task",
+  "name":"Operation Shutdown in Field5 @ Farm Arganda del Rey 2023-07-19T10_38",
+  "goal":"Shutdown in Field5 @ Farm Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
+  "hasWorkingArea":"urn:ngsi-ld:AgriParcel:76875a84-18fe-4b20-b24b-21a44cbeaf2e",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"AgriParcel",
+  "plannedBeginTime":"2023-07-19T10_38_34+01_00",
+  "plannedEndTime":"2023-07-19T10_38_34+01_00",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      -3.481017679599285,
+      40.31230681657959
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}
