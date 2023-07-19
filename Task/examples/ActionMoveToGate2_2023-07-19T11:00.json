@@ -1,0 +1,34 @@
+{
+  "id":"urn:ngsi-ld:Task:77968a4c-503b-4802-a77a-f4e9b7e99066",
+  "type":"Task",
+  "name":"Action MoveTo Gate2 @ Farm Arganda del Rey 2023-07-19T11_00",
+  "goal":"MoveTo Gate2 @ Farm Arganda del Rey",
+  "taskType":"Action",
+  "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
+  "hasWorkingArea":"urn:ngsi-ld:AgriParcel:9b194447-c996-416a-bd50-8217204c1edb",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"AgriParcel",
+  "plannedBeginTime":"2023-07-19T11_00_00+01_00",
+  "plannedEndTime":"2023-07-19T11_00_00+01_00",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"MultiPoint",
+    "coordinates":[
+      [
+        -3.4808206477354036,
+        40.31254295903914
+      ],
+      [
+        -3.480851165243269,
+        40.312494213227644
+      ]
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

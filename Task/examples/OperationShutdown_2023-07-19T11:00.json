@@ -1,0 +1,28 @@
+{
+  "id":"urn:ngsi-ld:Task:57c4ab52-9fcc-4855-8be9-9a976202553d",
+  "type":"Task",
+  "name":"Operation Shutdown in BuildingT4 @ Farm Arganda del Rey 2023-07-19T11_00",
+  "goal":"Shutdown in BuildingT4 @ Farm Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
+  "hasWorkingArea":"urn:ngsi-ld:Building:fda2957d-c787-4edc-ace2-bee1e9e2f4d9",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"Building",
+  "plannedBeginTime":"2023-07-19T11_00_00+01_00",
+  "plannedEndTime":"2023-07-19T11_00_00+01_00",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      -3.4810083894471977,
+      40.312645338017234
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}
