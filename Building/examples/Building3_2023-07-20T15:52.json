@@ -1,0 +1,52 @@
+{
+  "id":"urn:ngsi-ld:Building:a02d2f0d-3c17-43e2-8255-a739401a4375",
+  "type":"Building",
+  "dateCreated":"2023-07-20T15:52:17+01:00",
+  "dateModified":"2023-07-20T15:52:17+01:00",
+  "source":"",
+  "name":"BuildingT3 2023-07-20T15:52",
+  "dataProvider":"OperatorA",
+  "category":[
+    "office"
+  ],
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          -3.4805074252710995,
+          40.312353991280816
+        ],
+        [
+          -3.4804904297406267,
+          40.31236531471018
+        ],
+        [
+          -3.4805031688449617,
+          40.31237425852336
+        ],
+        [
+          -3.4805212257628853,
+          40.312363312106726
+        ],
+        [
+          -3.4805074252710995,
+          40.312353991280816
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":" Arganda del Rey  Community of Madrid",
+    "streetAddress":"Camino de la Poveda  La Poveda"
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building T3",
+  "mapUrl":"",
+  "openingHours":[],
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "ownedBy":""
+}

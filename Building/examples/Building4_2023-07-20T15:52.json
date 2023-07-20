@@ -1,0 +1,52 @@
+{
+  "id":"urn:ngsi-ld:Building:40b944d0-5d3b-40ea-bf99-06ecec68e235",
+  "type":"Building",
+  "dateCreated":"2023-07-20T15:52:18+01:00",
+  "dateModified":"2023-07-20T15:52:18+01:00",
+  "source":"",
+  "name":"BuildingT4 2023-07-20T15:52",
+  "dataProvider":"OperatorA",
+  "category":[
+    "office"
+  ],
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          -3.4810319773295078,
+          40.3126444774274
+        ],
+        [
+          -3.481002182110302,
+          40.31262640500259
+        ],
+        [
+          -3.4809852530081287,
+          40.31264757555678
+        ],
+        [
+          -3.481014371063253,
+          40.31266358255695
+        ],
+        [
+          -3.4810319773295078,
+          40.3126444774274
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":" Community of Madrid  28500",
+    "streetAddress":"La Poveda  Arganda del Rey"
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building T4",
+  "mapUrl":"",
+  "openingHours":[],
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "ownedBy":""
+}

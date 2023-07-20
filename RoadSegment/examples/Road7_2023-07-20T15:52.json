@@ -1,0 +1,47 @@
+{
+  "id":"urn:ngsi-ld:RoadSegment:09116bb9-ac18-42e7-8f17-0874e8d8c9a1",
+  "type":"RoadSegment",
+  "name":"Road6 2023-07-20T15:52",
+  "category":[
+    "oneway"
+  ],
+  "roadMaterial":"dirt",
+  "refRoad":[],
+  "totalLaneNumber":2,
+  "maximumAllowedSpeed":40,
+  "minimumAllowedSpeed":10,
+  "length":8.708260289539082,
+  "startPoint":{
+    "type":"Point",
+    "coordinates":[
+      -3.481450331226796,
+      40.31262050405948
+    ]
+  },
+  "endPoint":{
+    "type":"Point",
+    "coordinates":[
+      -3.4814587464579745,
+      40.3126984266342
+    ]
+  },
+  "allowedVehicleType":[
+    "agriculturalVehicle"
+  ],
+  "location":{
+    "type":"LineString",
+    "coordinates":[
+      [
+        -3.481450331226796,
+        40.31262050405948
+      ],
+      [
+        -3.4814587464579745,
+        40.3126984266342
+      ]
+    ]
+  },
+  "dateCreated":"2023-07-20T15:52:20+01:00",
+  "dateModified":"2023-07-20T15:52:20+01:00",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055"
+}

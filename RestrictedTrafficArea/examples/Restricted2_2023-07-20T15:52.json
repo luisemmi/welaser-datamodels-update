@@ -1,0 +1,47 @@
+{
+  "id":"urn:ngsi-ld:RestrictedTrafficArea:07788064-5ea2-4cbf-b19f-e93fa064731c",
+  "type":"RestrictedTrafficArea",
+  "category":"onlyPedestrian",
+  "description":"Restricted Area",
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          -3.482790067791939,
+          40.313018154675376
+        ],
+        [
+          -3.4827679395675655,
+          40.31284482022331
+        ],
+        [
+          -3.4823810309171677,
+          40.3128739649853
+        ],
+        [
+          -3.4823857247829437,
+          40.312962421817474
+        ],
+        [
+          -3.482409194111824,
+          40.31305241246427
+        ],
+        [
+          -3.482790067791939,
+          40.313018154675376
+        ]
+      ]
+    ]
+  },
+  "name":"RestrictedB 2023-07-20T15:52",
+  "notAllowedVehicleType":[
+    "anyVehicle"
+  ],
+  "regulation":"",
+  "source":"",
+  "validityEndDate":"",
+  "dateCreated":"2023-07-20T15:52:20+01:00",
+  "dateModified":"2023-07-20T15:52:20+01:00",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055"
+}

@@ -1,0 +1,68 @@
+{
+  "id":"urn:ngsi-ld:Building:592c65d3-4bab-4cd8-9113-5bb821599d00",
+  "type":"Building",
+  "dateCreated":"2023-07-20T15:52:19+01:00",
+  "dateModified":"2023-07-20T15:52:19+01:00",
+  "source":"",
+  "name":"BuildingP 2023-07-20T15:52",
+  "dataProvider":"OperatorA",
+  "category":[
+    "office"
+  ],
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          -3.4821905940771103,
+          40.313407260777744
+        ],
+        [
+          -3.48215103149414,
+          40.313267162386836
+        ],
+        [
+          -3.482179194688797,
+          40.31326204930138
+        ],
+        [
+          -3.4821309149265285,
+          40.31308206844662
+        ],
+        [
+          -3.4820075333118434,
+          40.31309945298192
+        ],
+        [
+          -3.482053130865097,
+          40.313270230237926
+        ],
+        [
+          -3.482086658477783,
+          40.3132763659397
+        ],
+        [
+          -3.4821242094039917,
+          40.31341544169673
+        ],
+        [
+          -3.4821905940771103,
+          40.313407260777744
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":" La Poveda  Arganda del Rey",
+    "streetAddress":"CAR-B  Acceso CSIC"
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building P",
+  "mapUrl":"",
+  "openingHours":[],
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "ownedBy":""
+}
