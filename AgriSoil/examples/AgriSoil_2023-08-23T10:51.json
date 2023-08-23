@@ -1,9 +1,9 @@
 {
-  "id":"urn:ngsi-ld:AgriSoil:e71a020d-7161-456f-8c01-e91e735e46a1",
+  "id":"urn:ngsi-ld:AgriSoil:fcb74af3-5e3e-4525-81f7-604b85daab18",
   "type":"AgriSoil",
-  "dateCreated":"2023-07-20T15:52:16+01:00",
-  "dateModified":"2023-07-20T15:52:16+01:00",
-  "name":"Loam 2023-07-20T15:52",
+  "dateCreated":"2023-08-23T10:51:11+01:00",
+  "dateModified":"2023-08-23T10:51:11+01:00",
+  "name":"Loam 2023-08-23T10:51",
   "alternateName":"Heavy soil",
   "agroVocConcept":[],
   "seeAlso":[],

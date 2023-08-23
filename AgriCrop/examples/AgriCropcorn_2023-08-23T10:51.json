@@ -1,15 +1,15 @@
 {
-  "id":"urn:ngsi-ld:AgriCrop:4de8bd70-c4e2-4cab-aec6-8fa4804b3aa4",
+  "id":"urn:ngsi-ld:AgriCrop:eec901d6-532b-4992-bb92-2045c2d9dc08",
   "type":"AgriCrop",
-  "dateCreated":"2023-07-20T15:52:16+01:00",
-  "dateModified":"2023-07-20T15:52:16+01:00",
-  "name":"beetroot 2023-07-20T15:52",
+  "dateCreated":"2023-08-23T10:51:11+01:00",
+  "dateModified":"2023-08-23T10:51:11+01:00",
+  "name":"corn 2023-08-23T10:51",
   "alternateName":"",
   "agroVocConcept":[],
   "seeAlso":[],
-  "description":"Spring beetroot",
+  "description":"Spring corn",
   "relatedSource":[],
-  "hasAgriSoil":"urn:ngsi-ld:AgriSoil:e71a020d-7161-456f-8c01-e91e735e46a1",
+  "hasAgriSoil":"urn:ngsi-ld:AgriSoil:fcb74af3-5e3e-4525-81f7-604b85daab18",
   "hasAgriFertiliser":[],
   "hasAgriPest":[],
   "plantingFrom":[
@@ -24,11 +24,11 @@
   ],
   "harvestingInterval":[
     {
-      "dateRange":"-08-26/-09-05",
+      "dateRange":"-07-25/-08-25",
       "description":"Best Season"
     },
     {
-      "dateRange":"-09-05/-09-16",
+      "dateRange":"-08-26/-09-06",
       "description":"Season OK"
     }
   ],

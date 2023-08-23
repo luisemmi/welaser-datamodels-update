@@ -1,0 +1,52 @@
+{
+  "id":"urn:ngsi-ld:Building:4f80cf45-2bff-4712-a615-d15c8fc6c781",
+  "type":"Building",
+  "dateCreated":"2023-08-23T10:51:11+01:00",
+  "dateModified":"2023-08-23T10:51:11+01:00",
+  "source":"",
+  "name":"BuildingA 2023-08-23T10:51",
+  "dataProvider":"OperatorA",
+  "category":[
+    "office"
+  ],
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          5.1772413671018,
+          51.32053403699561
+        ],
+        [
+          5.177230539567347,
+          51.3205563754893
+        ],
+        [
+          5.17718665534602,
+          51.32054769924014
+        ],
+        [
+          5.177198077848146,
+          51.32052606533313
+        ],
+        [
+          5.1772413671018,
+          51.32053403699561
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":" Reusel  Reusel-De Mierden",
+    "streetAddress":"17  Postelsedijk"
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building",
+  "mapUrl":"",
+  "openingHours":[],
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "ownedBy":""
+}

@@ -1,7 +1,7 @@
 {
-  "id":"urn:ngsi-ld:RoadSegment:2d4e5041-9acc-4bd4-92a0-d05b09ad42c7",
+  "id":"urn:ngsi-ld:RoadSegment:c1ec2d17-8f3c-4e39-9e5a-ab839aa50cd4",
   "type":"RoadSegment",
-  "name":"Road1 2023-07-20T15:52",
+  "name":"Road0 2023-08-23T10:51",
   "category":[
     "oneway"
   ],
@@ -10,19 +10,19 @@
   "totalLaneNumber":2,
   "maximumAllowedSpeed":40,
   "minimumAllowedSpeed":10,
-  "length":10.642425953519755,
+  "length":4.227319021510069,
   "startPoint":{
     "type":"Point",
     "coordinates":[
-      -3.481001397404441,
-      40.31265587828324
+      5.177209171235802,
+      51.32055195725235
     ]
   },
   "endPoint":{
     "type":"Point",
     "coordinates":[
-      -3.480914720402211,
-      40.31268272872916
+      5.177194001186109,
+      51.32058695561054
     ]
   },
   "allowedVehicleType":[
@@ -32,20 +32,16 @@
     "type":"LineString",
     "coordinates":[
       [
-        -3.481001397404441,
-        40.31265587828324
+        5.177209171235802,
+        51.32055195725235
       ],
       [
-        -3.4809695706921957,
-        40.31268221237454
-      ],
-      [
-        -3.480914720402211,
-        40.31268272872916
+        5.177194001186109,
+        51.32058695561054
       ]
     ]
   },
-  "dateCreated":"2023-07-20T15:52:18+01:00",
-  "dateModified":"2023-07-20T15:52:18+01:00",
+  "dateCreated":"2023-08-23T10:51:12+01:00",
+  "dateModified":"2023-08-23T10:51:12+01:00",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055"
 }

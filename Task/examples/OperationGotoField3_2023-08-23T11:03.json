@@ -1,25 +1,25 @@
 {
-  "id":"urn:ngsi-ld:Task:60393700-ee4b-4f1a-a377-4c31f0ea5059",
+  "id":"urn:ngsi-ld:Task:c6a8d244-1f41-4abf-bdd0-73445e5461e2",
   "type":"Task",
-  "name":"Operation GoTo Field2 @ Farm Arganda del Rey 2023-07-20T16_05",
-  "goal":"GoTo Field2 @ Farm Arganda del Rey",
+  "name":"Operation GoTo Field3 @ Farm Postelsedijk 2023-08-23T11_03",
+  "goal":"GoTo Field3 @ Farm Postelsedijk",
   "taskType":"Operation",
   "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
   "hasWorkingArea":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "workingAreaType":"AgriFarm",
-  "plannedBeginTime":"2023-07-20T16_05_15+01_00",
-  "plannedEndTime":"2023-07-20T16_05_15+01_00",
+  "plannedBeginTime":"2023-08-23T11_03_15+01_00",
+  "plannedEndTime":"2023-08-23T11_03_15+01_00",
   "plannedSpeed":0.55,
   "plannedLocation":{
     "type":"Point",
     "coordinates":[
-      -3.480756235258886,
-      40.312693086163485
+      5.177192447386617,
+      51.32071505751275
     ]
   },
   "hasPlannedTaskChildren":[
-    "urn:ngsi-ld:Task:597b9008-36e2-4ae4-8c06-5a261552c864"
+    "urn:ngsi-ld:Task:d5af1c4f-84f7-4d6e-8773-da552109b963"
   ],
   "hasExecutedTaskChildren":[],
   "actualBeginTime":"",
