@@ -2,10 +2,11 @@
     "id": "implementmodel:lzhlaser",
     "type": "ImplementModel",
     "name": "LZH laser",
-    "PTO": "TBD",
-    "auxValve": "TBD",
-    "valve": "TBD",
-    "actuationType": "valve",
-    "actuationNumber": 1,
-    "width": 2
+    "brandName": "None",
+    "modelName": "None",
+    "implementType": "Weeders", //Implement type based on the description in ISO 11783 (enum: Non-specific System, Secondary Tillage, Planters/Seeders, Fertilizers, Sprayers, Harvesters, Root Harvesters, Forage, Irrigation, Transport/Trailer, Farm Yard Operations, Powered Auxiliary Devices, Special Crops, Earth Work, Skidder, Sensor Systems, Timber Harvesters, Forwarders, Timber Loaders, Timber Processing Machines, Mulchers, Slurry/Manure Applicators, Feeders/Mixers, Weeders) 
+    "PTO": 0, //If the implement requires PTO
+    "auxValve": 0, //The number of auxiliary valves required
+    "height": 1.3,//The height of the implement model, in meters
+    "width": 2.2, //The width of the implement model, in meters
 }

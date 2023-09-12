@@ -20,4 +20,3 @@ Global description: **This entity contains a harmonised description of a generic
 - `actuationNumber`: (**TBD**. e.g. valve, heat, elec. power)
 - `height`: The height of the implement model, in meters
 - `width`: The width of the implement model, in meters
-- `length`: The length of the implement model, in meters

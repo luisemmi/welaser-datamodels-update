@@ -4,6 +4,26 @@
     "refImplementModel": "implementmodel:lzhlaser",
     "nominalPowerConmsumption": 7.5,
     "powerConsumption": 6,
-    "voltage": 2,
-    "current": 3
+    "hasDevice": [],
+    "serviceProvided": [
+        "weeding",
+        "state",
+        "heartbeat"
+    ],
+    "status": [
+        "off",
+        "idle",
+        1653309595
+    ],
+    "areaServed": "",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -3.4817996621131897,
+            40.313309089672984
+        ]
+    },
+    "rate": 0,
+    "weedDensity": 0,
+    "treatmentArea": 0.5
 }
