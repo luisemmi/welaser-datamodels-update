@@ -8,11 +8,15 @@
     "serviceProvided": [
         "weeding",
         "state",
+        "detected",
+        "accumulated",
         "heartbeat"
     ],
     "status": [
         "off",
         "idle",
+        "detected",
+        "accumulated",
         1653309595
     ],
     "areaServed": "",
