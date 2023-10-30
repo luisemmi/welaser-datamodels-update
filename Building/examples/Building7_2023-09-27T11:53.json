@@ -1,0 +1,60 @@
+{
+  "id":"urn:ngsi-ld:Building:693ef177-41e5-4e29-b485-db68a0735b07",
+  "type":"Building",
+  "dateCreated":"2023-09-27T11:53:22+01:00",
+  "dateModified":"2023-09-27T11:53:22+01:00",
+  "source":"",
+  "name":"BuildingB 2023-09-27T11:53",
+  "dataProvider":"OperatorA",
+  "category":[
+    "office"
+  ],
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          -3.4819599241018295,
+          40.313451744512626
+        ],
+        [
+          -3.4819424897432327,
+          40.31338374063025
+        ],
+        [
+          -3.4820035099983215,
+          40.31337607101515
+        ],
+        [
+          -3.4819914400577545,
+          40.31327841117348
+        ],
+        [
+          -3.481396660208702,
+          40.313357152627546
+        ],
+        [
+          -3.481432870030403,
+          40.31351770310003
+        ],
+        [
+          -3.4819599241018295,
+          40.313451744512626
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":" Arganda del Rey  Community of Madrid",
+    "streetAddress":"Acceso CSIC  La Poveda"
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building B",
+  "mapUrl":"",
+  "openingHours":[],
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "ownedBy":""
+}
