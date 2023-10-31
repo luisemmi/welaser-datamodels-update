@@ -1,15 +1,15 @@
 {
-  "id":"urn:ngsi-ld:Task:177a3a17-1d6a-4a65-8642-57273d8b62bb",
+  "id":"urn:ngsi-ld:Task:02d78385-48f1-41be-87e7-db5efc97ceef",
   "type":"Task",
-  "name":"Mission weeding with HPL from BuildingT to Field6 2023-10-31T11_41",
+  "name":"Mission weeding with HPL from BuildingT to Field6 2023-10-31T13_09",
   "goal":"Automatically weeding BuildingT to Field6",
   "taskType":"Mission",
   "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
   "hasWorkingArea":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "workingAreaType":"AgriFarm",
-  "plannedBeginTime":"2023-10-31T11:39:39+01:00",
-  "plannedEndTime":"2023-10-31T11_41_38+01_00",
+  "plannedBeginTime":"2023-10-31T13:07:21+01:00",
+  "plannedEndTime":"2023-10-31T13_09_19+01_00",
   "plannedSpeed":0.55,
   "plannedLocation":{
     "type":"LineString",
@@ -183,32 +183,32 @@
         40.31286209423435
       ],
       [
-        -3.4812650487696604,
-        40.31293368538349
+        -3.4812685019701766,
+        40.3129395001824
       ],
       [
-        -3.4812783228781066,
-        40.312942593604774
+        -3.481255704537301,
+        40.31293019218986
       ],
       [
-        -3.4812783228781066,
-        40.312942593604774
+        -3.4812685019701766,
+        40.3129395001824
       ],
       [
-        -3.4812639194563992,
-        40.31293292701594
+        -3.4812560627299822,
+        40.31293045227818
       ],
       [
-        -3.481249516034477,
-        40.312923260427446
+        -3.481243623489608,
+        40.31292140437426
       ],
       [
-        -3.4812351126123393,
-        40.312913593839305
+        -3.48123118424907,
+        40.31291235647056
       ],
       [
-        -3.4812207091899845,
-        40.3129039272515
+        -3.4812187450083334,
+        40.31290330856718
       ],
       [
         -3.481206305767416,
@@ -449,10 +449,10 @@
     ]
   },
   "hasPlannedTaskChildren":[
-    "urn:ngsi-ld:Task:9ecaf922-f26f-4c34-81b5-06128600c54b",
-    "urn:ngsi-ld:Task:e558a2ef-b741-4588-8add-2c5b9dbdde36",
-    "urn:ngsi-ld:Task:1b26ce4d-e86e-486e-aa32-0df1b14bf49b",
-    "urn:ngsi-ld:Task:5e9d737d-faca-4c22-bfc6-723cc4b201d6"
+    "urn:ngsi-ld:Task:410ea572-d8b3-4b06-a0fc-358c9a6b859c",
+    "urn:ngsi-ld:Task:0daf0530-e0f3-4ad4-bc6e-4f605ec27250",
+    "urn:ngsi-ld:Task:c04e373f-eff1-48f3-8805-799d023ad020",
+    "urn:ngsi-ld:Task:0af73964-cd84-48dd-9047-75990e43cc8b"
   ],
   "hasExecutedTaskChildren":[],
   "actualBeginTime":"",
