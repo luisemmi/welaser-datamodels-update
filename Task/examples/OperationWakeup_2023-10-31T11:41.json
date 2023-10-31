@@ -1,21 +1,21 @@
 {
-  "id":"urn:ngsi-ld:Task:5a0d19d8-855b-4a80-baf9-615542c1e692",
+  "id":"urn:ngsi-ld:Task:9ecaf922-f26f-4c34-81b5-06128600c54b",
   "type":"Task",
-  "name":"Operation Wakeup in BuildingC @ Farm Arganda del Rey 2023-10-30T11_54",
-  "goal":"Wakeup in BuildingC @ Farm Arganda del Rey",
+  "name":"Operation Wakeup in BuildingT @ Farm Arganda del Rey 2023-10-31T11_41",
+  "goal":"Wakeup in BuildingT @ Farm Arganda del Rey",
   "taskType":"Operation",
   "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
-  "hasWorkingArea":"urn:ngsi-ld:Building:91b41dea-6def-44cc-b140-3c112b781233",
+  "hasWorkingArea":"urn:ngsi-ld:Building:44f0a460-30ec-431c-bb22-e30d73312c52",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "workingAreaType":"Building",
-  "plannedBeginTime":"2023-10-30T11_54_08+01_00",
-  "plannedEndTime":"2023-10-30T11_54_08+01_00",
+  "plannedBeginTime":"2023-10-31T11_41_38+01_00",
+  "plannedEndTime":"2023-10-31T11_41_38+01_00",
   "plannedSpeed":0.55,
   "plannedLocation":{
     "type":"Point",
     "coordinates":[
-      -3.48264606287599,
-      40.31320641281282
+      -3.481626720697962,
+      40.31223729711366
     ]
   },
   "hasPlannedTaskChildren":[],

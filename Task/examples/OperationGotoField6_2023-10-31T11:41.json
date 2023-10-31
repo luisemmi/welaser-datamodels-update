@@ -1,0 +1,37 @@
+{
+  "id":"urn:ngsi-ld:Task:e558a2ef-b741-4588-8add-2c5b9dbdde36",
+  "type":"Task",
+  "name":"Operation GoTo Field6 @ Farm Arganda del Rey 2023-10-31T11_41",
+  "goal":"GoTo Field6 @ Farm Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
+  "hasWorkingArea":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"AgriFarm",
+  "plannedBeginTime":"2023-10-31T11_41_38+01_00",
+  "plannedEndTime":"2023-10-31T11_41_38+01_00",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      -3.481626720697962,
+      40.31223729711366
+    ]
+  },
+  "hasPlannedTaskChildren":[
+    "urn:ngsi-ld:Task:d71382fb-6a48-425c-bac8-1cf7089b5be1",
+    "urn:ngsi-ld:Task:a0a6262f-4774-49e8-93b3-859b7794bdab",
+    "urn:ngsi-ld:Task:d72dbc13-f621-4d30-b90d-05e06fdf812c",
+    "urn:ngsi-ld:Task:f637c574-0e33-48f5-9804-dc4cb1b09f93",
+    "urn:ngsi-ld:Task:5c0394d9-dc47-42dd-bfb2-76e1f9b26f05",
+    "urn:ngsi-ld:Task:a4ff0650-3334-4f0f-aff2-fafc3e5d2c86",
+    "urn:ngsi-ld:Task:6fde7d56-879e-437c-b011-f55c52744673",
+    "urn:ngsi-ld:Task:40320627-6879-4b38-90fa-a93c263ef0bd"
+  ],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

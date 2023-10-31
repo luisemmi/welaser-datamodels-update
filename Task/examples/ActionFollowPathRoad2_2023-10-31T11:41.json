@@ -1,0 +1,50 @@
+{
+  "id":"urn:ngsi-ld:Task:a0a6262f-4774-49e8-93b3-859b7794bdab",
+  "type":"Task",
+  "name":"Action FollowPath Road2 @ Farm Arganda del Rey 2023-10-31T11_41",
+  "goal":"FollowPath Road2 @ Farm Arganda del Rey",
+  "taskType":"Action",
+  "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
+  "hasWorkingArea":"urn:ngsi-ld:RoadSegment:3f7bbb1d-47ff-4f10-ab36-69c3d23e6492",
+  "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+  "workingAreaType":"RoadSegment",
+  "plannedBeginTime":"2023-10-31T11_41_38+01_00",
+  "plannedEndTime":"2023-10-31T11_41_38+01_00",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"LineString",
+    "coordinates":[
+      [
+        -3.481617613156363,
+        40.31231155942032
+      ],
+      [
+        -3.481611232438679,
+        40.312326814850294
+      ],
+      [
+        -3.4816048517208253,
+        40.31234207027996
+      ],
+      [
+        -3.4815984710027825,
+        40.31235732570938
+      ],
+      [
+        -3.481592090284586,
+        40.31237258113848
+      ],
+      [
+        -3.4815857095662186,
+        40.31238783656734
+      ]
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

@@ -1,26 +1,38 @@
 {
-  "id":"urn:ngsi-ld:Task:89a2d82f-2237-4cdf-8a02-74103fd4bf5a",
+  "id":"urn:ngsi-ld:Task:40320627-6879-4b38-90fa-a93c263ef0bd",
   "type":"Task",
-  "name":"Action MoveTo Field6 @ Farm Arganda del Rey 2023-10-30T13_24",
+  "name":"Action MoveTo Field6 @ Farm Arganda del Rey 2023-10-31T11_41",
   "goal":"MoveTo Field6 @ Farm Arganda del Rey",
   "taskType":"Action",
   "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
   "hasWorkingArea":"urn:ngsi-ld:AgriParcel:035795a1-4fc6-4cc3-8b5b-538625eb6461",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "workingAreaType":"AgriParcel",
-  "plannedBeginTime":"2023-10-30T13_24_08+01_00",
-  "plannedEndTime":"2023-10-30T13_24_08+01_00",
+  "plannedBeginTime":"2023-10-31T11_41_38+01_00",
+  "plannedEndTime":"2023-10-31T11_41_38+01_00",
   "plannedSpeed":0.55,
   "plannedLocation":{
     "type":"MultiPoint",
     "coordinates":[
       [
-        -3.4811020155265964,
-        40.31218622620859
+        -3.480851165243269,
+        40.312494213227644
       ],
       [
-        -3.48111213705105,
-        40.31219082335354
+        -3.4810722303192585,
+        40.31216653579979
+      ],
+      [
+        -3.4810253610010164,
+        40.31214249879465
+      ],
+      [
+        -3.481051957526236,
+        40.31212156750562
+      ],
+      [
+        -3.481064497181912,
+        40.31212745578754
       ]
     ]
   },

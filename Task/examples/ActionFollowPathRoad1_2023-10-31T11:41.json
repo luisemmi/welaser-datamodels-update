@@ -1,27 +1,19 @@
 {
-  "id":"urn:ngsi-ld:Task:e75e40dc-093f-49b4-98b5-dee988f39f67",
+  "id":"urn:ngsi-ld:Task:a4ff0650-3334-4f0f-aff2-fafc3e5d2c86",
   "type":"Task",
-  "name":"Action FollowPath Road3 @ Farm Arganda del Rey 2023-10-30T13_24",
-  "goal":"FollowPath Road3 @ Farm Arganda del Rey",
+  "name":"Action FollowPath Road1 @ Farm Arganda del Rey 2023-10-31T11_41",
+  "goal":"FollowPath Road1 @ Farm Arganda del Rey",
   "taskType":"Action",
   "hasAgriRobot":"urn:ngsi-ld:AgriRobot:9ea60389-9246-4dda-a083-3e3bcb444131",
   "hasWorkingArea":"urn:ngsi-ld:RoadSegment:c96e6673-382e-47b2-b632-2147446eda73",
   "areaServed":"urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
   "workingAreaType":"RoadSegment",
-  "plannedBeginTime":"2023-10-30T13_24_08+01_00",
-  "plannedEndTime":"2023-10-30T13_24_08+01_00",
+  "plannedBeginTime":"2023-10-31T11_41_38+01_00",
+  "plannedEndTime":"2023-10-31T11_41_38+01_00",
   "plannedSpeed":0.55,
   "plannedLocation":{
     "type":"LineString",
     "coordinates":[
-      [
-        -3.4813071297208733,
-        40.312961926783444
-      ],
-      [
-        -3.4812927262995976,
-        40.31295226019393
-      ],
       [
         -3.4812783228781066,
         40.312942593604774
